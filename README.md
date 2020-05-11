@@ -14,4 +14,4 @@ Client
   Многопоточный Клиент-Сервер
 
 Ссылка на сервер
-https://github.com/SashaSunsh1ne/ClientServer_Server/tree/master
+https://github.com/SashaSunsh1ne/ClientServer_Server/
